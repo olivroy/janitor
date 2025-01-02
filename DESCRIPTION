@@ -44,7 +44,7 @@ Suggests:
     rmarkdown,
     RSQLite,
     sf,
-    testthat (>= 3.0.0),
+    testthat (>= 3.2.0),
     tibble,
     tidygraph
 VignetteBuilder: 
